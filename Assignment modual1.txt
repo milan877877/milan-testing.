@@ -1,0 +1,81 @@
+1) what is SDLC?
+-> Software development life cycle (SDLC) is a structured process that is used to design, develop, and test good-quality software.
+
+2) what is software testing?
+-> Software testing is an important process in the software development lifecycle . It involves verifying and validating that a software application is free of bugs, meets the technical requirements set by its design and development , and satisfies user requirements efficiently and effectively.
+
+3) what is agile methology?
+->  The Agile methodology is a project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement. Teams follow a cycle of planning, executing, and evaluating.
+
+4) what is SRS?
+-> A software requirements specification (SRS) is a complete description 
+   of the behavior of the system to be developed. 
+   
+5) what is oops?
+-> Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
+
+6) write basic concepts of opps?
+-> OOP concepts include abstraction, encapsulation, inheritance and polymorphism. Basically, Java OOP concepts let us create working methods and variables, then re-use all or part of them without compromising security.
+
+7) what is object?
+-> An object is a component of a program that knows how to perform certain actions and how to interact with other elements of the program.
+
+8) what is class?
+-> a class is a template definition of the methods and variables in a particular kind of object.
+
+9) what is encapsulation?
+-> Encapsulation is one of the core concepts in object-oriented programming and describes the bundling of data and methods operating on this data into one unit.
+
+10) what is inheritance?
+->  Inheritance is a term used in Object Orientated programming that allows one class to inherit properties from another class.
+
+11) what is polymorphism?
+-> Polymorphism is one of the core concepts of object-oriented programming (OOP) that describes situations in which something occurs in several different forms. 
+
+12) draw usecase on online book shopping
+->  <https://drive.google.com/file/d/1DXYiRi6DmM S8sjMl4SCfv7uZroara2mR/view?usp=sharing>
+
+13) draw usecase on online book payment system (paytm)
+->  https://drive.google.com/file/d/1j5G5H1PyMQvb56jf2b5bqHGeCr0_kB0i/view?usp=sharing
+14)  write SDLC phases with basic introduction ?
+->   Plan. The planning phase typically includes tasks like cost-benefit analysis, scheduling, resource estimation, and allocation. ...
+Design. In the design phase, software engineers analyze requirements and identify the best solutions to create the software. ...
+Implement. ...
+Test. ...
+Deploy. ...
+Maintain.
+15) explain phases of the waterfall model?
+->   The waterfall model is useful in situations where the project requirements are well-defined and the project goals are clear. It is often used ..
+16) explain phases of spiral model?
+->  Objectives Defined: first phase of the spiral model we clarify what the project aims to achieve, including functional and non-functional.
+17) write agile manifesto principles?
+-> The Key Values and Principles of the Agile Manifesto
+      Individuals and interactions over processes and tools.
+      Working software over comprehensive documentation.
+      Customer collaboration over contract negotiation.
+      Responding to change over following a plan.
+18) explain working methodology of agile model and also pros and cons.
+Agile SDLC model is a combination of iterative and incremental
+                    process models with focus on process adaptability and customer
+                     satisfaction by rapid delivery of working software product.
+Agile Methods break the product into small incremental builds.
+These builds are provided in iterations.
+Each iteration typically lasts from about one to three weeks.
+Pros
+Is a very realistic approach to software development
+Promotes teamwork and cross training.
+Functionality can be developed rapidly and demonstrated.
+Resource requirements are minimum.
+Suitable for fixed or changing requirements.
+Cons
+Not suitable for handling complex dependencies.
+More risk of sustainability, maintainability and extensibility.
+An overall plan, an agile leader and agile PM practice is a must without
+which it will not work.
+Strict delivery management dictates the scope, functionality to be
+delivered, and adjustments to meet the deadlines.
+19) draw usecase on online shopping product using COD.
+->  https://drive.google.com/file/d/1Lh-TQ7sg2jxTJWX4h4mK2NtyNi8xnaxi/view?usp=sharing
+
+20) draw usecase on online shopping prodcut using payment gateway.
+->  https://drive.google.com/file/d/1SxylgeY26QP9ZycKl7dT0sunjA4I3Cat/view?usp=sharing
